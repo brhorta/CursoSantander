@@ -10,7 +10,7 @@ import UIKit
 class CadastroUsuarioVC: UIViewController {
     
     // MARK: IBOutlets User
-    
+    //IBOUtlets Comentario teste
     @IBOutlet weak var nomeTextField: UITextField!
     @IBOutlet weak var cpfTextField: UITextField!
     @IBOutlet weak var emailTextField: UITextField!
